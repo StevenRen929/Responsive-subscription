@@ -147,8 +147,7 @@ body {
     background-color: var(--clr);
   }
 }
-//code for responsive
-//2 code block for responsive
+
 @media (max-width:1200px){
   .cards-wrapper{
     flex-wrap: wrap;
@@ -164,11 +163,7 @@ body {
     }
   }
 }
-//feature 1 keep adding comments
-//master add comment
-//master add comment
-//master add another comment
-//feature-one want to add comment
+
 @media (max-width:768px){
   .cards-wrapper{
     flex-direction: column;
